@@ -1,6 +1,8 @@
 
 # Maclean — Guia de Uso
 
+Script para limpeza de mac
+
 ## 0. Pré-requisitos (tornando o script global)
 
 1. Baixe o script `maclean.sh` para a pasta **Downloads**
